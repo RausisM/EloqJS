@@ -1,2 +1,2 @@
 # EloqJS
-My answers to eloquentjavascript
+My answers to eloquentjavascript exercises
